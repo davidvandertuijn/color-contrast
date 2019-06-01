@@ -1,0 +1,20 @@
+{
+    "name": "davidvandertuijn/color-contrast",
+    "description": "Color Contrast",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David van der Tuijn",
+            "email": "davidvandertuijn@mac.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Davidvandertuijn\\": "src/"
+        }
+    }
+}
