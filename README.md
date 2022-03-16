@@ -4,6 +4,8 @@
 <a href="https://packagist.org/packages/davidvandertuijn/color-contrast"><img src="https://poser.pugx.org/davidvandertuijn/color-contrast/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/davidvandertuijn/color-contrast"><img src="https://poser.pugx.org/davidvandertuijn/color-contrast/license.svg" alt="License"></a>
 
+![Color Contrast](https://cdn.davidvandertuijn.nl/github/color-contrast.png)
+
 The **Luminosity Contrast Algorithm** is used to calculate whether the value is closer to *#FFFFFF* or *#000000*.
 
 ## Install
