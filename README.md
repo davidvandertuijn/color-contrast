@@ -6,7 +6,9 @@
 
 ![Color Contrast](https://cdn.davidvandertuijn.nl/github/color-contrast.png)
 
-The **Luminosity Contrast Algorithm** is used to calculate whether the value is closer to *#FFFFFF* or *#000000*.
+The Luminosity Contrast Algorithm is a powerful tool designed to assess the contrast of a color value relative to pure white (#FFFFFF) and pure black (#000000). This algorithm is essential for ensuring that text and visual elements are easily readable against their backgrounds, thereby enhancing accessibility and user experience.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/davidvandertuijn)
 
 ## Install
 
